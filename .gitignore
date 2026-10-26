@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+coverage/
+.DS_Store
+*.tsbuildinfo
+
+# Local browser/download artifacts
+7.html
+7_files/
